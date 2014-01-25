@@ -1,3 +1,3 @@
-java -jar weiboDriver.jar 
+java -jar weiboDriver.jar 2
 
 pause
